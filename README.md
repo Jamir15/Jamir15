@@ -1,6 +1,6 @@
 # Hi, I'm Jamir Dave De Belen
 
-🎓 **4th-Year Computer Engineering Student**  
+🎓 **Recent Computer Engineering Graduate**  
 💻 **Embedded Systems | Web Development | Hardware-Software Integration**  
 🚀 Passionate about building real-world solutions using microcontrollers, sensors, and modern web technologies.
 
